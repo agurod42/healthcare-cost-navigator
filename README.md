@@ -5,7 +5,7 @@
   <br />
 </p>
 
-![CI](https://github.com/agurod42/outfox-health/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/agurod42/healthcare-cost-navigator/actions/workflows/ci.yml/badge.svg)
 
 A focused, production‑style demo for exploring inpatient hospital pricing and quality signals by ZIP, radius, and MS‑DRG. Ask in plain English; the service generates safe SQL, executes it on PostgreSQL, and returns transparent results you can trust.
 
